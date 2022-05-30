@@ -1,0 +1,93 @@
+name: merchant
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.16.2 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  widgetbook: 2.0.5-beta
+  flutter_svg: ^1.0.3
+  auto_size_text: 3.0.0
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^1.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/merchant/assets/images/vector.svg
+    - packages/merchant/assets/images/circlenotifications.svg
+    - packages/merchant/assets/images/subtract.png
+    - packages/merchant/assets/images/ellipse20.png
+    - packages/merchant/assets/images/dashboard.svg
+    - packages/merchant/assets/images/addshoppingcart.svg
+    - packages/merchant/assets/images/chatbubble.svg
+    - packages/merchant/assets/images/totalsales.png
+    - packages/merchant/assets/images/arrowdropdown.svg
+    - packages/merchant/assets/images/shoppingcart.svg
+    - packages/merchant/assets/images/attachmoney.svg
+    - packages/merchant/assets/images/ok.svg
+    - packages/merchant/assets/images/ellipse21.png
+    - packages/merchant/assets/images/ellipse2.png
+    - packages/merchant/assets/images/ellipse4.png
+    - packages/merchant/assets/images/ellipse1.png
+    - packages/merchant/assets/images/polygon1.svg
+    - packages/merchant/assets/images/ellipse3.png
+    - packages/merchant/assets/images/closedeye.png
+    - packages/merchant/assets/images/user.png
+    - packages/merchant/assets/images/padlockoutline.png
+    - packages/merchant/assets/images/ellipse5.png
+    - packages/merchant/assets/images/done.png
+    - packages/merchant/assets/images/ellipse6.png
+    - packages/merchant/assets/images/ellipse7.png
+    - packages/merchant/assets/images/ellipse8.png
+    - packages/merchant/assets/images/rectangle11.svg
+    - packages/merchant/assets/images/polygon2.svg
+    - packages/merchant/assets/images/rectangle12.svg
+    - packages/merchant/assets/images/ellipse9.png
+    - packages/merchant/assets/images/rectangle13.svg
+    - packages/merchant/assets/images/rectangle15.svg
+    - packages/merchant/assets/images/rectangle14.svg
+    - packages/merchant/assets/images/line1.svg
+    - packages/merchant/assets/images/line2.svg
+    - packages/merchant/assets/images/ellipse10.png
+    - packages/merchant/assets/images/arrowdropdowncircle.svg
+    - packages/merchant/assets/images/vector2.svg
+    - packages/merchant/assets/images/ellipse11.png
+    - packages/merchant/assets/images/ellipse12.png
+    - packages/merchant/assets/images/ellipse13.png
+    - packages/merchant/assets/images/ellipse14.png
+    - packages/merchant/assets/images/polygon22.svg
+    - packages/merchant/assets/images/rectangle122.svg
+    - packages/merchant/assets/images/ellipse92.png
+    - packages/merchant/assets/images/rectangle142.svg
+    - packages/merchant/assets/images/ellipse26.png
+    - packages/merchant/assets/images/ellipse27.png
+    - packages/merchant/assets/images/ellipse28.png
+    - packages/merchant/assets/images/ellipse25.png
+    - packages/merchant/assets/images/arrowforward.svg
+    - packages/merchant/assets/images/graphiceq.svg
+    - packages/merchant/assets/images/rectangle19.svg
+    - packages/merchant/assets/images/conversion.png
+    - packages/merchant/assets/images/salesperformance.png
+    - packages/merchant/assets/images/customerinsight.png
+    - packages/merchant/assets/images/ellipse15.png
+    - packages/merchant/assets/images/image2.png
+    - packages/merchant/assets/images/ellipse16.png
+    - packages/merchant/assets/images/image3.png
+    - packages/merchant/assets/images/ellipse17.png
+    - packages/merchant/assets/images/image4.png
+    - packages/merchant/assets/images/ellipse18.png
+    - packages/merchant/assets/images/image5.png
+    - packages/merchant/assets/images/addcircle.svg
+    - packages/merchant/assets/images/ellipse23.png
+    - packages/merchant/assets/images/permidentity.svg
+    - packages/merchant/assets/images/email.svg
+    - packages/merchant/assets/images/locationon.svg
+    - packages/merchant/assets/images/facebookf.svg
+    - packages/merchant/assets/images/rectangle17.svg
+    - packages/merchant/assets/images/ellipse24.png
+    - packages/merchant/assets/images/iphone.png
